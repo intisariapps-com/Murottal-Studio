@@ -24,6 +24,8 @@ Preset mencakup:
 - **Efek Shadow Blur** untuk teks agar tetap terbaca jelas di background terang.
 - **Dimmer Latar Belakang (Opacity & Color)** untuk memberikan kesan *Cinematic*.
 
+![Preset Builder Murottal Studio](docs/images/presets_builder.png)
+
 ### 4. 🏞️ Integrasi Aset Hak Cipta Bebas (Pixabay)
 Aplikasi terhubung langsung ke API Pixabay. Anda dapat mencari jutaan gambar Islami (seperti arsitektur masjid, pemandangan alam, pola geometris) langsung dari dalam aplikasi dan menerapkannya sebagai latar belakang video.
 
@@ -32,6 +34,8 @@ Berkat mesin render latar belakang berbasis *FFmpeg*, video 1080p dapat disatuka
 
 ### 6. ⚙️ Manajemen Pengaturan & Lisensi Pintar
 Anda dapat mengatur *Path* khusus untuk folder penyimpanan, mengatur kualitas Output, dan mengintegrasikan akun lisensi (*Cloudflare License Validator*).
+
+![Pengaturan Murottal Studio](docs/images/settings_modal.png)
 
 ### 7. 🚀 Pembaruan Otomatis (Auto-Updater)
 Murottal Studio dilengkapi dengan sistem *Auto-Updater*. Setiap kali ada rilis fitur baru, aplikasi akan memberikan pemberitahuan secara elegan, mengunduh pembaruan di latar belakang, dan memasang ulang dirinya sendiri tanpa campur tangan teknis dari pengguna.
