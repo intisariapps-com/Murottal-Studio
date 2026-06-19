@@ -1,5 +1,14 @@
 {
-    "version": "1.1.0",
-    "release_notes": "Pembaruan: Preset Pabrik disederhanakan dan Bug Alpha Channel diperbaiki",
-    "download_url_windows": "https://github.com/intisariapps-com/Murottal-Studio-Releases/releases/download/v1.1.0/setupMurottalStudio.exe"
+    "version": "2.0.0",
+    "release_notes": "- Arsitektur SSOT Versioning\\n- Pipeline Otomatis GitHub API\\n- Pengujian Regresi Otomatis\\n- Transisi Akurat FFmpeg CSS",
+    "download_url_windows": "https://github.com/intisariapps-com/Murottal-Studio/releases/download/v2.0.0/setupMurottalStudio.exe",
+    "history": [
+        {
+            "version": "2.0.0",
+            "date": "2026-06-19",
+            "changelog": [
+                "Arsitektur SSOT Versioning\\n- Pipeline Otomatis GitHub API\\n- Pengujian Regresi Otomatis\\n- Transisi Akurat FFmpeg CSS"
+            ]
+        }
+    ]
 }
